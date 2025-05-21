@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Paritosh Tigga</h1>
-<h3 align="center">Passionate Game Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=overwatch10x&label=Profile%20views&color=0e75b6&style=flat" alt="overwatch10x" /> </p>
 
